@@ -65,13 +65,20 @@ h1,h3{
 /* fin exo 02 background*/
 
 /* début exo 03 background-position*/
-.img-1{ 
+.img-1{
+    background-image: url(../img/bg_image.jpg); 
 }
 .img-2{
+    background-image: url(../img/bg_image.jpg);
+    background-position: center; 
 }
 .img-3{
+    background-image: url(../img/bg_image.jpg);
+    background-position: right;
 }
 .img-4{
+    background-image: url(../img/bg_image.jpg);
+    background-position: left;
 }
 /* fin exo 03 background-position*/
 
