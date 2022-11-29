@@ -94,24 +94,41 @@ h1,h3{
 }
 .img-7{
     background-image: url(../img/bg_image_petite.jpg);
-    background-repeat: space repeat;
+    background-repeat: repeat-y;
 }
 /* fin exo 04 background-repeat*/
 
 /* début exo 05 background-size*/
 .img-8{ 
+    background-image: url(../img/bg_image_petite.jpg);
+    background-size: 10%;
 }
-.img-9{ 
+.img-9{
+    background-image: url(../img/bg_image_petite.jpg);
+    background-size: contain;
+    background-size: 35%;
 }
 .img-10{
+    background-image: url(../img/bg_image_petite.jpg);
+    background-size: cover;
 }
 .img-11{
+    background-image: url(../img/bg_image_petite.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 /* fin exo 05 background-size*/
 
 /* début exo 06 background-attachement*/
 .img-12{
+    background-image: url(../img/bg_image_petite.jpg);
+    background-attachment: fixed;
 }
 .img-13{
+    background-image: url(../img/bg_image_petite.jpg);
+    background-size: contain;;
+    background-attachment: fixed;
+    
 }
 /* fin exo 06 background-attachement*/
