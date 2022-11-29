@@ -58,7 +58,7 @@ h1,h3{
     background: radial-gradient(#e66465, #9198e5);
 }
 .bg-3{
-    background: linear-gradient(0.25turn, #e66465, #9198e5);
+    background: linear-gradient(0.75turn, #e66465, #9198e5);
 }
 .bg-4{background: linear-gradient(to left bottom, #e66465, #9198e5 );
 }
